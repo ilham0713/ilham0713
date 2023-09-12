@@ -1,4 +1,4 @@
-🖥️  Software Engineer (Intern at Ace Applications, LLC)<br>⚡ I love innovative and up and coming technologies<br>🎒 4th-year computer science major at UCF<br>🌐 Software is the love of my life<br>🤖 I love generative AI!<br>💬 Ask me about my current project
+🖥️  Software Engineer (Intern at Ace Applications, LLC)<br>⚡ Check out my [portfolio site](https://ilhammukati.com)<br>🎒 4th-year computer science major at UCF<br>🌐 Software is the love of my life<br>🤖 I love generative AI!<br>💬 Ask me about my current project
 
 
 ## 🌐 Socials:
