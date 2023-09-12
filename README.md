@@ -1,7 +1,5 @@
 🖥️  Software Engineer (Intern at Ace Applications, LLC)<br>⚡ Check out my [portfolio site](https://ilhammukati.com)<br>🎒 4th-year computer science major at UCF<br>🌐 Software is the love of my life<br>🤖 I love generative AI!<br>💬 Ask me about my current project
 
-
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ilham-mukati-aa6179172) 
 
 # 💻 Tech Stack:
